@@ -1,0 +1,30 @@
+C:\Users\nobe04001\Desktop\programering c#\bin\Debug\net6.0\programering c#.exe
+C:\Users\nobe04001\Desktop\programering c#\bin\Debug\net6.0\programering c#.deps.json
+C:\Users\nobe04001\Desktop\programering c#\bin\Debug\net6.0\programering c#.runtimeconfig.json
+C:\Users\nobe04001\Desktop\programering c#\bin\Debug\net6.0\programering c#.dll
+C:\Users\nobe04001\Desktop\programering c#\bin\Debug\net6.0\programering c#.pdb
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.csproj.AssemblyReference.cache
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.AssemblyInfoInputs.cache
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.AssemblyInfo.cs
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.csproj.CoreCompileInputs.cache
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.dll
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\refint\programering c#.dll
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.pdb
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\programering c#.genruntimeconfig.cache
+C:\Users\nobe04001\Desktop\programering c#\obj\Debug\net6.0\ref\programering c#.dll
+C:\Users\nobe04001\Desktop\programering\bin\Debug\net6.0\programering c#.exe
+C:\Users\nobe04001\Desktop\programering\bin\Debug\net6.0\programering c#.deps.json
+C:\Users\nobe04001\Desktop\programering\bin\Debug\net6.0\programering c#.runtimeconfig.json
+C:\Users\nobe04001\Desktop\programering\bin\Debug\net6.0\programering c#.dll
+C:\Users\nobe04001\Desktop\programering\bin\Debug\net6.0\programering c#.pdb
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.csproj.AssemblyReference.cache
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.AssemblyInfoInputs.cache
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.AssemblyInfo.cs
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.csproj.CoreCompileInputs.cache
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.dll
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\refint\programering c#.dll
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.pdb
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\programering c#.genruntimeconfig.cache
+C:\Users\nobe04001\Desktop\programering\obj\Debug\net6.0\ref\programering c#.dll
